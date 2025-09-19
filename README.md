@@ -2,16 +2,7 @@
 
 This script solves the 47th level of https://neal.fun/not-a-robot/
 
-<iframe
-    width="560"
-    height="315"
-    src="https://www.youtube.com/embed/eCZw52DR7ag?si=d8BQlHwTp_9OLH3X" 
-    title="YouTube video player"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    referrerpolicy="strict-origin-when-cross-origin"
-    allowfullscreen>
-</iframe>
+[![](https://img.youtube.com/vi/eCZw52DR7ag/0.jpg)](https://www.youtube.com/watch?v=eCZw52DR7ag)
 
 ## Install
 
